@@ -15,14 +15,14 @@ I’m a passionate **Software Engineer** with over **3 years of experience** in 
 ---
 
 ## 🚀 Current Focus:
-- **Master’s Project**: Developing **Schedule-ease**, a scheduling assistant to streamline resource management using **Spring Boot**, **React**, and **AWS**.
+- Developing **Schedule-ease**, a scheduling assistant to streamline resource management using **Spring Boot**, **React**, and **AWS**.
 - Deepening knowledge in **distributed systems**, **event-driven architecture**, and **microservices**.
 - Exploring **LLM agents** and their potential in building AI-driven applications.
 - Advancing expertise in **cloud-native architectures** and **DevOps practices**.
 
 ---
 
-Currently I'm focusing on Machine Learning and System Design to become a better developer! 
+Currently I'm focusing on Machine Learning, LLM Agents and System Design to become a better developer! 
 
 ---
 
